@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0rem;
+}
+.head {
+  font-size: 4rem;
+  background-color: #6366f1;
+  height: 5rem;
+  padding: 1rem;
+  margin: 0rem;
+  border-bottom-left-radius: 1rem;
+}
+
+input {
+  margin: 5rem;
+  height: 2rem;
+  width: 50rem;
+  font-size: 1.5rem;
+  backgroundcolor: #f1f5f9;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+h3 {
+  font-size: larger;
+}
